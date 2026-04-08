@@ -129,7 +129,7 @@ if "done" not in st.session_state:
     st.session_state.done = False
 
 # ── Header ─────────────────────────────────────────────────────────────────────
-st.markdown('<div class="main-title">Just for you 💛</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">Just for Samara ❤️ </div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">a few things I never say enough</div>', unsafe_allow_html=True)
 st.markdown('<div class="heart-divider">♥ ♥ ♥</div>', unsafe_allow_html=True)
 
