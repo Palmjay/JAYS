@@ -118,6 +118,14 @@ REASONS = [
     ("🧠", "How smart and thoughtful you are in everything you do"),
     ("🏠", "Being with you feels like being home"),
     ("💛", "Today — for making it feel so incredibly special"),
+    ("🎵", "The way you sing and the sound of your voice calms me down "),
+    ("👀", "The look you give me that says everything without a single word"),
+    ("🎁", "Loving you feels like the best gift I didn't know I needed"),
+    ("🌟", "You make me want to be better, every single day"),
+    ("🤗", "Your hugs — they fell so warm"),
+    ("🦋", "The butterflies — even now, even still, every time"),
+    ("🍓", "your eyes - BRIGHTER THAN THE SUN"),
+    ("💫", "The fact that out of everywhere and everyone — I get to be yours"),
 ]
 
 # ── State ──────────────────────────────────────────────────────────────────────
